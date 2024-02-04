@@ -2,15 +2,14 @@
 
 ![Intruve Network Logo](https://example.com/intruve-logo.png)
 
-**Intruve Network** is a cutting-edge Minecraft Server Network, promising an unparalleled gaming experience. Dive into a world of innovation, where we introduce original and exciting games like Bed Wars, Shuffle, and more! Join us on this adventure and be part of the Intruve community.
+**Intruve Network** is a brand new Minecraft Server Network committed to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, and more! Join us on this adventure and be part of the Intruve community.
 
 ## Table of Contents
 - [Features](#features)
 - [How to Connect](#how-to-connect)
 - [Game Modes](#game-modes)
 - [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
+- [Join Us](#join-us)
 
 ## Features
 
@@ -26,7 +25,7 @@ To join the Intruve Network, follow these simple steps:
 1. Open Minecraft Java Edition.
 2. Click on "Multiplayer."
 3. Click "Add Server" and enter a name for the server (e.g., Intruve Network).
-4. Enter the server address: `play.intruvenetwork.com`
+4. Enter the server address: `play.intruve.net`
 5. Click "Done" and join the server!
 
 ## Game Modes
@@ -43,17 +42,12 @@ Prepare for a thrilling experience in Shuffle, where the ground beneath you cons
 
 Join our vibrant community and stay connected:
 
-- **Discord:** [Intruve Discord Server](https://discord.gg/intruvenetwork)
-- **Forums:** [Intruve Forums](https://forums.intruvenetwork.com)
-- **Twitter:** [@IntruveNetwork](https://twitter.com/intruvenetwork)
+- **Discord:** [Intruve Discord Server](https://dc.intruve.net)
+- **Twitter:** [@IntruveNetwork](https://twitter.com/intruve)
 
-## Contributing
+## Join Us
 
-We welcome contributions from the community. Whether it's reporting bugs, suggesting new features, or contributing code, your input is valuable. Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+Ready to embark on this exciting journey? Join us at `play.intruve.net` and experience Minecraft like never before!
 
 ---
 
