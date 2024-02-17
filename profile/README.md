@@ -44,8 +44,8 @@ Join our vibrant community and stay connected:
 - **Discord:** [Discord Server](https://dc.intruve.net)
 - **Twitter:** [@Intruve](https://twitter.com/intruve)
 - **YouTube:** [@Intruve](https://youtube.com/@intruve)
-- **Instagram:** [/Intruve](https://instagram.com/intruve)
-- **Twitch:** [/Intruve](https://twitch.com/intruve)
+- **Instagram:** [Intruve](https://instagram.com/intruve)
+- **Twitch:** [Intruve](https://twitch.com/intruve)
 
 ## Join Us
 
