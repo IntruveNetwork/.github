@@ -5,18 +5,17 @@
 **Intruve Network** is a brand new Minecraft Server Network committed to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, Jump Masters, and more! Join us on this adventure and be part of the Intruve community.
 
 ## Table of Contents
-- [Features](#features)
+- [Goals](#goals)
 - [How to Connect](#how-to-connect)
 - [Game Modes](#game-modes)
 - [Community](#community)
 - [Join Us](#join-us)
 
-## Features
+## Goals
 
-- **Original Games:** Experience unique and innovative gameplay with our specially crafted games.
-- **High Quality:** Immerse yourself in a world of stunning graphics and smooth gameplay.
+- **High Quality:** We consider quality to be a paramount aspect of our network; therefore, we consistently strive to deliver the highest possible standard.
 - **Upcoming Updates:** Stay tuned for regular updates, introducing new features and games to keep the excitement alive.
-- **Dedicated Servers:** Our servers are designed to provide a lag-free environment, ensuring you have the best gaming experience.
+- **Experience:** We aim to provide our users with a distinctive and exceptional experience.
 
 ## How to Connect
 
@@ -45,8 +44,8 @@ Join our vibrant community and stay connected:
 - **Discord:** [Discord Server](https://dc.intruve.net)
 - **Twitter:** [@Intruve](https://twitter.com/intruve)
 - **YouTube:** [@Intruve](https://youtube.com/@intruve)
-- **Instagram:** [@Intruve](https://instagram.com/intruve)
-- **Twitch:** [@Intruve](https://twitch.com/intruve)
+- **Instagram:** [/Intruve](https://instagram.com/intruve)
+- **Twitch:** [/Intruve](https://twitch.com/intruve)
 
 ## Join Us
 
