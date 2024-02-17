@@ -2,7 +2,7 @@
 
 ![Intruve Network Logo](https://avatars.githubusercontent.com/u/87587579?s=200&v=4)
 
-**Intruve Network** is a brand new Minecraft Server Network committed to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, and more! Join us on this adventure and be part of the Intruve community.
+**Intruve Network** is a brand new Minecraft Server Network committed to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, Jump Masters, and more! Join us on this adventure and be part of the Intruve community.
 
 ## Table of Contents
 - [Features](#features)
@@ -42,8 +42,11 @@ Prepare for a thrilling experience in Shuffle, where the ground beneath you cons
 
 Join our vibrant community and stay connected:
 
-- **Discord:** [Intruve Discord Server](https://dc.intruve.net)
-- **Twitter:** [@IntruveNetwork](https://twitter.com/intruve)
+- **Discord:** [Discord Server](https://dc.intruve.net)
+- **Twitter:** [@Intruve](https://twitter.com/intruve)
+- **YouTube:** [@Intruve](https://youtube.com/@intruve)
+- **Instagram:** [@Intruve](https://instagram.com/intruve)
+- **Twitch:** [@Intruve](https://twitch.com/intruve)
 
 ## Join Us
 
@@ -51,4 +54,4 @@ Ready to embark on this exciting journey? Join us at `play.intruve.net` and expe
 
 ---
 
-**Intruve Network - Unleash the Gaming Innovation!**
+**© Intruve Network. All rights reserved.**
