@@ -2,7 +2,7 @@
 
 ![Intruve Network Logo](https://avatars.githubusercontent.com/u/87587579?s=200&v=4)
 
-**Intruve Network** is a brand new Minecraft Server Network committed to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, Jump Masters, and more! Join us on this adventure and be part of the Intruve community.
+**Intruve Network** is a brand new Minecraft Server Network currently in development, dedicated to delivering a top-tier gaming experience. Dive into a world of innovation featuring original games like Bed Wars, Shuffle, Jump Masters, and more! Join us on this adventure and be part of the Intruve community.
 
 ## Table of Contents
 - [Goals](#goals)
