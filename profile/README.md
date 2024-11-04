@@ -1,5 +1,5 @@
 
-<p align="center">
+<p content="center">
   <img src="https://pbs.twimg.com/profile_banners/1363274765558026243/1717117558/1500x500" alt="Intruve Network Banner">
 </p>
 
