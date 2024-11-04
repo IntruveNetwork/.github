@@ -30,8 +30,8 @@ Stay up-to-date with the latest news, upcoming events, and development progress 
 - **Twitch:** [/Intruve](https://twitch.com/intruve)
 
 
-<a href="https://discord.gg/papermc">
-         <img alt="PaperMC Discord" src="https://discord.com/api/guilds/759407743324389412/widget.png?style=banner2">
+<a href="https://dc.intruve.net">
+         <img alt="Intruve Discord" src="https://discord.com/api/guilds/759407743324389412/widget.png?style=banner2">
 </a>
 ---
 
