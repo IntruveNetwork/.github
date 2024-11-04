@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1363274765558026243/1717117558/1500x500" alt="Intruve Network Banner" style="max-width: 100%; height: auto;">
-</div>
+![Intruve Network Banner](https://pbs.twimg.com/profile_banners/1363274765558026243/1717117558/1500x500)
 
 # Intruve Network - Minecraft Server Network
 
