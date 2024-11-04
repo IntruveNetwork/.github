@@ -31,7 +31,7 @@ Stay up-to-date with the latest news, upcoming events, and development progress 
 
 
 <a href="https://discord.gg/papermc">
-         <img alt="PaperMC Discord" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
+         <img alt="PaperMC Discord" src="https://discord.com/api/guilds/759407743324389412/widget.png?style=banner2">
 </a>
 ---
 
