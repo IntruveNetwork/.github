@@ -19,7 +19,7 @@ While Intruve Network is still in development, here’s a preview of some of the
 
 …and we’re currently developing even more game concepts!
 
-## Community
+## Community and News
 
 Stay up-to-date with the latest news, upcoming events, and development progress on our social channels:
 
@@ -28,11 +28,6 @@ Stay up-to-date with the latest news, upcoming events, and development progress 
 - **YouTube:** [@Intruve](https://youtube.com/@intruve)
 - **Instagram:** [/Intruve](https://instagram.com/intruve)
 - **Twitch:** [/Intruve](https://twitch.com/intruve)
-
-
-<a href="https://dc.intruve.net">
-         <img alt="Intruve Discord" src="https://discord.com/api/guilds/759407743324389412/widget.png?style=banner2">
-</a>
 
 ---
 
