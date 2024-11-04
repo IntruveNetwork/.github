@@ -1,5 +1,8 @@
 
-![Intruve Network Banner](https://pbs.twimg.com/profile_banners/1363274765558026243/1717117558/1500x500)
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1363274765558026243/1717117558/1500x500" alt="Intruve Network Banner">
+</p>
+
 # Intruve Network - Minecraft Server Network
 
 **Intruve Network** is a brand new Minecraft Server Network currently in development, dedicated to delivering a top-tier gaming experience with original and innovative game modes. Join us on this adventure and be part of the Intruve community.
