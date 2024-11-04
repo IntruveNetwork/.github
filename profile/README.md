@@ -29,6 +29,10 @@ Stay up-to-date with the latest news, upcoming events, and development progress 
 - **Instagram:** [/Intruve](https://instagram.com/intruve)
 - **Twitch:** [/Intruve](https://twitch.com/intruve)
 
+
+<a href="https://discord.gg/papermc">
+         <img alt="PaperMC Discord" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
+</a>
 ---
 
 **© Intruve Network. All rights reserved.**
