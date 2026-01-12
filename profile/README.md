@@ -1,4 +1,4 @@
-![Intruve Network Banner](https://pbs.twimg.com/profile_banners/1555354031534505986/1755358042/1500x500)
+![Intruve Network Banner](https://pbs.twimg.com/profile_banners/1555354031534505986/1765080499/1500x500)
 
 # Intruve Network - Minecraft Server Network
 
@@ -24,10 +24,10 @@ While Intruve Network is still in development, here’s a preview of some of the
 Connect with our community and stay informed about the latest news, upcoming events, and development updates through our social channels:
 
 - **Discord:** [dc.Intruve.net](https://dc.intruve.net)
-- **Twitter:** [@Intruve](https://twitter.com/intruve)
-- **YouTube:** [@Intruve](https://youtube.com/@intruve)
-- **Instagram:** [/Intruve](https://instagram.com/intruve)
-- **Twitch:** [/Intruve](https://twitch.com/intruve)
+- **Twitter:** [@IntruveNetwork](https://twitter.com/intruvenetwork)
+- **YouTube:** [@IntruveNetwork](https://youtube.com/@intruvenetwork)
+- **Instagram:** [/IntruveNetwork](https://instagram.com/intruvenetwork)
+- **Twitch:** [/IntruveNetwork](https://twitch.com/intruvenetwork)
 
 ---
 
